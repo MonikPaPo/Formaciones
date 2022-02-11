@@ -1,0 +1,61 @@
+.contenedor{
+	background-color:aliceblue;
+	border-style:dashed;
+	margin: 0 auto;
+    width: 1500px; 
+    height: 700px;
+    left: 0;
+    top:0;
+    text-align: center;
+}
+
+.texto{
+	text-align: center;
+	font-size: 25px;
+}
+
+.contenedor2{
+	background-color:#A5F49E;
+	border-style:dashed;
+	margin: 0 auto;
+    width: 1500px; 
+    height: 700px;
+    left: 0;
+    top:0;
+    text-align: center;
+}
+
+.formulario{
+	text-align: center;
+}
+
+a{
+	background-color: lightgray;
+	transition: blackground-color .10s;
+	
+}
+
+a:hover{
+	background-color: floralwhite;
+}
+
+img{
+	margin: 100px;
+	width: 200px; 
+	height: 200px;
+
+}
+
+p{
+	font-size: 30px;
+	color: white;
+}
+
+h1{
+	text-align: center;
+	font-size: 70px;
+	color: Black;
+}
+form{
+	text-align: center;
+}
